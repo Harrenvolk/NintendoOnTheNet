@@ -1,3 +1,5 @@
+body {background-color: #ebe6e0;}
+
 #holder
 {
   width:        600px;
@@ -8,6 +10,29 @@
   text-align:   center;
 }
 
+.button {
+  width: 80px;
+  height: 80px;
+  float: right;
+  background-color: #933550;
+  border: none;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: antiquewhite;
+  margin: 4px 2px;
+  border-radius: 50%
+}
+
+
+.button:hover {background-color: #933550e7}
+
+.button:active {
+  background-color: #933550c5;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 
 #lcd
 {
