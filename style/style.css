@@ -1,0 +1,22 @@
+#holder
+{
+  width:        600px;
+  padding:      2px;
+  border:       1px solid black;
+  margin-left:  auto;
+  margin-right: auto;
+  text-align:   center;
+}
+
+
+#lcd
+{
+  width:  600px;
+  height: 432px;
+}
+
+
+#dbg
+{
+  width: 200px;
+}
